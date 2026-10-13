@@ -1,4 +1,4 @@
-# Sanad: Pioneering Neuro-Symbolic Legal AI
+# Sanad: Pioneering Neuro-Symbolic Legal AI for Africa
 
 **Sanad** is a leading LegalTech innovator dedicated to the digital transformation of the law. Our mission is to promote a **responsible, sovereign, and infallible** approach to artificial intelligence within the legal sector.
 
